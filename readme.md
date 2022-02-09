@@ -1,3 +1,6 @@
+Java 11, Selenium, Maven, TestNG
+
+
 1) User goes to the website plushcare.com
 2) User click the button book an appointment nad lands on optinsurancepage
 3) User clicks 'I'm paying for myself' button and lands on Appointment list page
